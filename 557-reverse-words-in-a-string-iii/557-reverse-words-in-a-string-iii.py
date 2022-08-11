@@ -16,3 +16,8 @@ class Solution(object):
         for word in words:
             finalSentence.append(self.reverseAlgo(word))
         return (" ".join(finalSentence))
+    
+       #A more effieicent way:
+        #We could try to make the reverse happen in-place like so:
+        # Everytime we encounter a space, starting fromt he index after that, we can start making a reverse string and when we encounter its 
+        # corresponding space, the reverse string is replaces with the old one
