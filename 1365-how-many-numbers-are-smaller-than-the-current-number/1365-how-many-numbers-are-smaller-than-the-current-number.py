@@ -1,5 +1,5 @@
 class Solution(object):
-    def insertionSort(self, array):
+    def insertionSort(self, array): #ASSUME WE IMPLEMENTED MERGE SORT
         n = len(array)
         for i in range(1,n):
             key = array[i]
