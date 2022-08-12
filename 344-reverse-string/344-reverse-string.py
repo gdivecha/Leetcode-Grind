@@ -25,3 +25,4 @@ class Solution(object):
             s.insert(alreadyReversed,s.pop())
             alreadyReversed+=1
         return s
+        #This would take O(1) space but O(n^2) time still but the shift is done automatically by the program due to insert
