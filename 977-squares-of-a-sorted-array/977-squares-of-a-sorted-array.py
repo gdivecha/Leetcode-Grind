@@ -42,6 +42,7 @@ class Solution(object):
         # j = 0 This will be the iterator for array two - positive squares
         # k will decrease by 1 each time
         # j with increase by 1 each time
+        #This approach takes O(n) time and space
         negativeSquares = []
         otherSquares = []
         for num in nums:
