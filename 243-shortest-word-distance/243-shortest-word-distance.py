@@ -8,7 +8,9 @@ class Solution(object):
         # Then, we try to find the index of the other word and get the difference of the two indices
         # We allocate the variable to find the minimum difference
         # We say minDistance = that difference
-        # Then 
+        # Then ....
+        # Hmmmm as I think about it more, I believe that there is a better way of solving this
+        # problem
         
         #Efficient Algorithm:
         # An algorithm used to find max diff between buying and selling stock
@@ -56,4 +58,5 @@ class Solution(object):
                     else:
                         otherWord = word1
             return minDistance
+        #This algorithm would run in O(n)Time
         
