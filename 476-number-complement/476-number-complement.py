@@ -52,5 +52,10 @@ class Solution(object):
         # easier to find the decimal representation of this complement
         return self.getFinalComplementNum(complementBase2)
         
-        
+        # This procedure takes O(lgn) time to find the original binary string
+        # + O(n) time to convert to the complement
+        # + O(n) time to get the final NUmber
+        # = O(n) time complexity in total
+        # The space taken is around O(n) for original string + O(n) time to convert and O(1) for final num
+        # = O(n) space complexity in total
         
