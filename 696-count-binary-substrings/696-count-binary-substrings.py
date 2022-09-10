@@ -55,10 +55,11 @@ class Solution(object):
                 print(i)
                 if(i==len(s)-2):
                     numberSets.append(currentSet)
-        print(numberSets)
         for i,theSet in enumerate(numberSets[:-1]):
             finalSubStringCount += min(len(theSet),len(numberSets[i+1]))
         return finalSubStringCount
+        # This solution should take around O(n) time
+        # and O(n) space
                 
         
         
