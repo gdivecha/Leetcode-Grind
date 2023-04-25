@@ -23,3 +23,11 @@
 	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
 </ul>
 </div>
+
+
+
+I had the pleasure of working with Gaurav during his internship with our team. Throughout his time here, he has been an invaluable partner and colleague, working on multiple different aspects of our internal performance reporting tool; specifically, he has been instrumental in designing and creating a custom reporting dashboard for supporting reports of enterprise-level clients. This was a brand new project that our team took on, and Gaurav was the driving force behind both the design - participating in all discussions and brainstorming, taking requirements, and creating refined UI designs in Figma - and its intstrumentation and front-end development - using various frameworks including React. During the process Gaurav remained outcome-driven, bringing creative ideas and problem-solving to the table, as well as staying agile and focused when changes in direction or scope came up.
+
+ 
+
+Overall, Gaurav has a strong grasp of application development, with a keen understanding of UX/UI design. He brings a consistently positive attitude to work every day, alongside the ability to approach challenges from multiple creative angles, exemplifying the Agile mindset. I can confidently say that he is an asset to any team or project. I highly recommend him, and I hope I have the chance to work with him again in the future.
