@@ -42,7 +42,7 @@ class Solution(object):
         # - Iteration 10: Recognize that it is a closed bracket, thus, it pops the stack -> Stack =[] and returns ')'
         #   - Current characte rin string = popped character
         #   - So it moves to the next character
-        # Example 1: "([){]}"
+        # Example 2: "([){]}"
         # - Iteration 1: Stack = [')']
         # - Iteration 2: Stack = [')',']']
         # - Iteration 3: Recognize that it is a closed ')' bracket, thus, it pops the stack -> Stack =[')'] and returns ']'
